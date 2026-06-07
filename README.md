@@ -9,10 +9,9 @@
 [![AI](https://img.shields.io/badge/AI-DeepSeek-orange)](https://deepseek.com)
 
 一个基于 **Dear ImGui v1.92.9 WIP (Docking分支)** 的现代化 C++ 桌面应用开发模板。
+---
 ### 视频演示地址：
 https://www.bilibili.com/video/BV18j7Z6bERY/?share_source=copy_web&vd_source=8f734f1e86c1b345adc07138e11bb4e1
----
-
 ## 📋 目录
 
 - [✨ 特性](#-特性)
